@@ -114,9 +114,10 @@ button{
     margin-top: 190px;
 }
 button:hover{
-    background-color: rgb(253, 67, 67);
-    transform: scale(1.1);
-    transition: .3s all ease-in;
+    background-color: rgb(255, 255, 255);
+    /* transform: scale(1.1); */
+    transition: .2s all ease-in;
+    color: black;
 }
 #resume{
     margin-left: 160px;
